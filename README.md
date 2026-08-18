@@ -1,4 +1,4 @@
-# AI Music Generator 🎵
+#CodeAlpha_AI Music Generator 🎵
 
 This is a Deep Learning project that uses a Recurrent Neural Network (LSTM) to generate completely new music sequences. 
 
